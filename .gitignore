@@ -1,0 +1,13 @@
+bin/
+target/
+
+# Intellij IDEA
+.idea/
+*.iml
+
+.DS_Store
+
+# Eclipse
+.classpath
+.project
+.settings/

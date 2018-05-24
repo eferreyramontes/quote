@@ -1,0 +1,91 @@
+2018-05-22 16:31:19 INFO  ConsoleUtil:11 - Step 1
+2018-05-22 16:31:19 INFO  ConsoleUtil:19 - Step 2
+2018-05-22 16:31:19 INFO  QuoteController:40 - market file: market.csv
+2018-05-22 16:31:19 INFO  ConsoleUtil:11 - Step 1
+2018-05-22 16:31:19 INFO  ConsoleUtil:19 - Step 2
+2018-05-22 16:31:19 INFO  ConsoleUtil:39 - Step 3
+2018-05-22 16:31:19 INFO  QuoteController:50 - loan amount: 1000
+2018-05-22 17:56:30 INFO  ConsoleUtil:11 - Step 1
+2018-05-22 17:56:30 INFO  ConsoleUtil:18 - Step 2
+2018-05-22 17:57:32 INFO  ConsoleUtil:11 - Step 1
+2018-05-22 17:57:32 INFO  ConsoleUtil:18 - Step 2
+2018-05-22 17:57:32 INFO  ConsoleUtil:38 - Step 3
+2018-05-22 18:12:07 INFO  QuoteController:40 - market file: market.csv
+2018-05-22 18:12:07 INFO  QuoteController:50 - loan amount: 1000
+2018-05-22 18:12:11 INFO  QuoteController:40 - market file: market.csv
+2018-05-22 18:12:11 INFO  QuoteController:50 - loan amount: 100
+2018-05-22 18:13:04 INFO  QuoteController:40 - market file: market.csv
+2018-05-22 18:13:04 INFO  QuoteController:50 - loan amount: 80
+2018-05-22 18:13:25 INFO  QuoteController:40 - market file: market.csv
+2018-05-22 18:13:25 INFO  QuoteController:50 - loan amount: 1423
+2018-05-22 18:13:31 INFO  QuoteController:40 - market file: market.csv
+2018-05-22 18:13:31 INFO  QuoteController:50 - loan amount: 1000
+2018-05-22 18:23:54 INFO  QuoteController:40 - market file: market.csv
+2018-05-22 18:23:54 INFO  QuoteController:50 - loan amount: 1000
+2018-05-22 18:25:52 INFO  QuoteController:40 - market file: market.csv
+2018-05-22 18:25:52 INFO  QuoteController:50 - loan amount: 1000
+2018-05-22 18:28:15 INFO  QuoteController:40 - market file: market.csv
+2018-05-22 18:28:15 INFO  QuoteController:50 - loan amount: 1000
+2018-05-22 18:28:38 INFO  QuoteController:40 - market file: market.csv
+2018-05-22 18:28:38 INFO  QuoteController:50 - loan amount: 1000
+2018-05-24 08:30:23 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480}
+2018-05-24 08:31:24 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480}
+2018-05-24 08:34:18 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480}
+2018-05-24 08:37:13 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480}
+2018-05-24 08:38:30 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480}
+2018-05-24 08:39:35 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480}
+2018-05-24 08:40:24 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480}
+2018-05-24 08:40:40 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480}
+2018-05-24 08:42:40 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480}
+2018-05-24 08:43:13 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480}
+2018-05-24 08:45:34 INFO  QuoteService:48 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480}
+2018-05-24 08:46:15 INFO  QuoteService:48 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480}
+2018-05-24 08:46:15 INFO  QuoteService:57 - There is not a suitable offer.
+2018-05-24 08:46:37 INFO  QuoteService:57 - There is not a suitable offer.
+2018-05-24 08:46:53 INFO  QuoteService:48 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480}
+2018-05-24 08:50:36 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480}
+2018-05-24 08:50:53 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480}
+2018-05-24 08:51:20 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480}
+2018-05-24 08:51:50 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480}
+2018-05-24 08:52:06 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480}
+2018-05-24 09:06:20 INFO  QuoteController:40 - market file: market.csv
+2018-05-24 09:06:20 INFO  QuoteController:50 - loan amount: 1000
+2018-05-24 09:06:20 INFO  QuoteService:48 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480000}
+2018-05-24 09:06:35 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480000}
+2018-05-24 09:06:35 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480000}
+2018-05-24 09:07:34 ERROR MarketUtil:30 - Something went wrong getting market: market.csv (No such file or directory)
+2018-05-24 09:08:39 ERROR MarketUtil:30 - Something went wrong getting market: /resources/market.csv (No such file or directory)
+2018-05-24 09:08:51 ERROR MarketUtil:30 - Something went wrong getting market: resources/market.csv (No such file or directory)
+2018-05-24 09:13:11 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480000}
+2018-05-24 09:13:11 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480000}
+2018-05-24 09:14:15 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480000}
+2018-05-24 09:14:15 INFO  QuoteService:54 - There is not a suitable offer.
+2018-05-24 09:15:16 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480000}
+2018-05-24 09:15:16 INFO  QuoteService:54 - There is not a suitable offer.
+2018-05-24 09:15:19 INFO  QuoteController:40 - market file: market.csv
+2018-05-24 09:15:19 INFO  QuoteController:50 - loan amount: 1000
+2018-05-24 09:15:19 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480000}
+2018-05-24 09:17:01 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480000}
+2018-05-24 09:17:01 INFO  QuoteService:54 - There is not a suitable offer.
+2018-05-24 09:17:04 INFO  QuoteController:40 - market file: market.csv
+2018-05-24 09:17:04 INFO  QuoteController:50 - loan amount: 1000
+2018-05-24 09:17:04 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480000}
+2018-05-24 09:17:15 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480000}
+2018-05-24 09:19:06 INFO  QuoteService:54 - There is not a suitable offer.
+2018-05-24 09:19:19 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480000}
+2018-05-24 09:19:19 INFO  QuoteService:54 - There is not a suitable offer.
+2018-05-24 09:19:56 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480000}
+2018-05-24 09:19:56 INFO  QuoteService:54 - There is not a suitable offer.
+2018-05-24 09:20:03 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480000}
+2018-05-24 09:20:04 INFO  QuoteService:54 - There is not a suitable offer.
+2018-05-24 09:20:06 INFO  QuoteController:40 - market file: market.csv
+2018-05-24 09:20:06 INFO  QuoteController:50 - loan amount: 1000
+2018-05-24 09:20:06 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480000}
+2018-05-24 13:26:57 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480000}
+2018-05-24 13:26:57 INFO  QuoteService:54 - There is not a suitable offer.
+2018-05-24 13:27:28 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480000}
+2018-05-24 13:27:28 INFO  QuoteService:54 - There is not a suitable offer.
+2018-05-24 13:27:59 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480000}
+2018-05-24 13:27:59 INFO  QuoteService:54 - There is not a suitable offer.
+2018-05-24 13:29:26 INFO  QuoteService:44 - There is a suitable offer: Offer{name='Jane', rate=0.069, amount=480000}
+2018-05-24 13:29:27 INFO  QuoteService:54 - There is not a suitable offer.
